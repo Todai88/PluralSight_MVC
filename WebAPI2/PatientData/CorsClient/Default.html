@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+    <button id="getPatients"> Get Patients</button>
+
+    <pre id="output">
+    
+    </pre>
+
+    <script src="Scripts/jquery-3.1.1.js"></script> 
+    <!-- I know, we shouldn't be doing this. :c -->
+
+    <script>
+        $(function () {
+
+            var getPatients = function () {
+
+                let url = "http://localhost:62012/api/patients";
+
+                $.get(url).always(showResponse);
+                return false;
+
+            };
+
+            let showResponse = function (obj) {
+
+                $("#output").text(JSON.stringify(obj, null, 4));
+
+            };
+
+            $("#getPatients").click(getPatients);
+        });
+    </script>
+</body> 
+</html>
