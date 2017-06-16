@@ -5,6 +5,7 @@ using System.Net.Http;
 using System.Web.Http;
 using Microsoft.Owin.Security.OAuth;
 using Newtonsoft.Json.Serialization;
+using System.Web.Http.Cors;
 
 namespace PatientData
 {
@@ -17,6 +18,10 @@ namespace PatientData
             config.SuppressDefaultHostAuthentication();
             config.Filters.Add(new HostAuthenticationFilter(OAuthDefaults.AuthenticationType));
 
+            var cors = new EnableCorsAttribute("*", "*", "GET");
+            config.EnableCors(cors); // or use selectively on controllers using 
+                                 // [EnableCors("*", "*", "GET, POST")]
+            
             // Web API routes
             config.MapHttpAttributeRoutes();
 

@@ -20,14 +20,14 @@
 
             var getPatients = function () {
 
-                let url = "http://localhost:62012/api/patients";
+                var url = "http://localhost:62012/api/patients";
 
                 $.get(url).always(showResponse);
                 return false;
 
             };
 
-            let showResponse = function (obj) {
+            var showResponse = function (obj) {
 
                 $("#output").text(JSON.stringify(obj, null, 4));
 
