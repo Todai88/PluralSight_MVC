@@ -19,6 +19,7 @@ using PatientData.Results;
 
 namespace PatientData.Controllers
 {
+    //just a silly comment
     [Authorize]
     [RoutePrefix("api/Account")]
     public class AccountController : ApiController
