@@ -32,3 +32,46 @@ C:\Users\joaki\Desktop\New stuffz\PluralSight_MVC\WebAPI2\PatientData\CorsClient
 C:\Users\joaki\Desktop\New stuffz\PluralSight_MVC\WebAPI2\PatientData\CorsClient\obj\Debug\CorsClient.csprojResolveAssemblyReference.cache
 C:\Users\joaki\Desktop\New stuffz\PluralSight_MVC\WebAPI2\PatientData\CorsClient\obj\Debug\CorsClient.dll
 C:\Users\joaki\Desktop\New stuffz\PluralSight_MVC\WebAPI2\PatientData\CorsClient\obj\Debug\CorsClient.pdb
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\csc.exe
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\csc.exe.config
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\csc.rsp
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\csi.exe
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\csi.rsp
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\System.AppContext.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\vbc.exe
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\vbc.exe.config
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\vbc.rsp
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\CorsClient.dll.config
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\CorsClient.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\CorsClient.pdb
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\Newtonsoft.Json.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\System.Net.Http.Formatting.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\System.Web.Http.Cors.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\System.Web.Http.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\System.Web.Cors.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\Newtonsoft.Json.xml
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\System.Net.Http.Formatting.xml
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\System.Web.Http.xml
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\bin\System.Web.Http.Cors.xml
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\obj\Debug\CorsClient.csprojResolveAssemblyReference.cache
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\obj\Debug\CorsClient.dll
+C:\Users\Todai\Documents\Visual Studio 2017\Projects\PluralSight_MVC\WebAPI2\PatientData\CorsClient\obj\Debug\CorsClient.pdb
