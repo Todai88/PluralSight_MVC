@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.Entity;
 
 namespace Books.Web.DataContexts
 {
@@ -18,6 +19,12 @@ namespace Books.Web.DataContexts
         public static IdentityDb Create()
         {
             return new IdentityDb();
+        }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            modelBuilder.HasDefaultSchema("identity");
+            base.OnModelCreating(modelBuilder);
         }
     }
 }

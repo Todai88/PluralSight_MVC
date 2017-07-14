@@ -99,3 +99,10 @@ C:\Users\joaki\Desktop\New stuffz\PluralSight_MVC\EntitiyFramework\Books\Books.W
 C:\Users\joaki\Desktop\New stuffz\PluralSight_MVC\EntitiyFramework\Books\Books.Web\obj\Debug\Books.Web.DataContexts.IdentityMigrations.IntialCreate.resources
 C:\Users\joaki\Desktop\New stuffz\PluralSight_MVC\EntitiyFramework\Books\Books.Web\obj\Debug\Books.Web.csproj.GenerateResource.Cache
 C:\Users\joaki\Desktop\New stuffz\PluralSight_MVC\EntitiyFramework\Books\Books.Web\obj\Debug\Books.Web.DataContexts.BooksMigrations.IntialCreate.resources
+C:\Users\joaki\Desktop\New stuffz\PluralSight_MVC\EntitiyFramework\Books\Books.Web\bin\Glimpse.Ado.dll
+C:\Users\joaki\Desktop\New stuffz\PluralSight_MVC\EntitiyFramework\Books\Books.Web\bin\Glimpse.Core.dll
+C:\Users\joaki\Desktop\New stuffz\PluralSight_MVC\EntitiyFramework\Books\Books.Web\bin\Glimpse.EF6.dll
+C:\Users\joaki\Desktop\New stuffz\PluralSight_MVC\EntitiyFramework\Books\Books.Web\bin\Glimpse.AspNet.dll
+C:\Users\joaki\Desktop\New stuffz\PluralSight_MVC\EntitiyFramework\Books\Books.Web\bin\Glimpse.Mvc4.dll
+C:\Users\joaki\Desktop\New stuffz\PluralSight_MVC\EntitiyFramework\Books\Books.Web\obj\Debug\Books.Web.DataContexts.BooksMigrations.DefaultSchema.resources
+C:\Users\joaki\Desktop\New stuffz\PluralSight_MVC\EntitiyFramework\Books\Books.Web\obj\Debug\Books.Web.DataContexts.IdentityMigrations.DefaultSchema.resources
