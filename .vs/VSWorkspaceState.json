@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\WebAPI2",
+    "\\Bootstrap\\Bootstrap",
+    "\\Identity_and_Security\\Identity",
     "\\WebAPI2\\PatientData",
     "\\WebAPI2\\PatientData\\PatientData",
     "\\WebAPI2\\PatientData\\PatientData\\Controllers"
   ],
-  "SelectedNode": "\\WebAPI2\\PatientData\\PatientData.sln",
+  "SelectedNode": "\\Identity_and_Security",
   "PreviewInSolutionExplorer": false
 }
